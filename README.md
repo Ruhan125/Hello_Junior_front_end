@@ -1,5 +1,6 @@
 # Hello_Junior_front_end
 It's an educational website built for university students. Using this, junior students can take help from seniors, get notes, pdf, study material, coaching all in one place. 
+Tech used: HTML, CSS, Bootstrap 
 ![Screenshot (52)](https://github.com/Ruhan125/Hello_Junior_front_end/assets/67371356/755f263c-b335-4fa8-b8dd-74f799320293)
 ![Screenshot (53)](https://github.com/Ruhan125/Hello_Junior_front_end/assets/67371356/25910a0f-c8dd-4f24-a448-7c56d1d27331)
 ![Screenshot (54)](https://github.com/Ruhan125/Hello_Junior_front_end/assets/67371356/15ef7a1e-53ae-47a1-94a1-fa466d8fc0f4)
